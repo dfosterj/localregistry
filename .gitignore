@@ -1,0 +1,6 @@
+**/*.lock
+**/*env
+**/*.env
+./data/registry-data/
+./data/registry-data/**
+# **/values-*.yaml
